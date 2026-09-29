@@ -1,0 +1,33 @@
+page,week,week_topic
+index,0,课程主页（概述/大纲/FAQ）
+prompt-engineering-overview,1,LLM 与提示词工程入门
+prompt-engineering-guide,1,LLM 与提示词工程入门
+mcp-introduction,2,编码智能体的解剖结构
+mcp-server-authentication,2,编码智能体的解剖结构
+mcp-registry-preview,2,编码智能体的解剖结构
+mcp-food-for-thought,2,编码智能体的解剖结构
+specs-are-the-new-source-code,3,AI 集成开发环境
+how-long-contexts-fail,3,AI 集成开发环境
+devin-coding-agents-101,3,AI 集成开发环境
+writing-effective-tools-for-agents,3,AI 集成开发环境
+claude-code-best-practices,4,Claude Code 与智能体式编码
+good-context-good-code,4,Claude Code 与智能体式编码
+peeking-under-the-hood-of-claude-code,4,Claude Code 与智能体式编码
+warp-vs-claude-code,5,Warp 与 AI 终端
+how-warp-uses-warp,5,Warp 与 AI 终端
+sast-vs-dast,6,AI 安全与漏洞检测
+copilot-prompt-injection-rce,6,AI 安全与漏洞检测
+finding-vulnerabilities-claude-codex,6,AI 安全与漏洞检测
+agentic-ai-threats,6,AI 安全与漏洞检测
+owasp-top-ten,6,AI 安全与漏洞检测
+context-rot,6,AI 安全与漏洞检测
+code-reviews-just-do-it,7,AI 驱动的代码审查
+how-to-review-code-effectively,7,AI 驱动的代码审查
+ai-code-review-best-practices,7,AI 驱动的代码审查
+code-review-essentials,7,AI 驱动的代码审查
+lessons-from-ai-code-reviews,7,AI 驱动的代码审查
+sre-introduction,9,SRE、可观测性与智能体值班
+observability-basics,9,SRE、可观测性与智能体值班
+kubernetes-troubleshooting-ai,9,SRE、可观测性与智能体值班
+benefits-agentic-ai-oncall,9,SRE、可观测性与智能体值班
+multi-agent-systems-ai-native,9,SRE、可观测性与智能体值班

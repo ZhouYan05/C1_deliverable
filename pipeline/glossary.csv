@@ -1,0 +1,83 @@
+category,en,zh,note
+基础概念,Vibe Coding,氛围编程（Vibe Coding）,本课程主题：用自然语言"凭感觉"驱动 AI 生成代码的开发范式
+基础概念,Large Language Model (LLM),大语言模型（LLM）,全文统一简称 LLM
+基础概念,Model,模型,泛指神经网络模型
+基础概念,Prompt,提示词,用户输入给模型的指令文本
+基础概念,Prompt Engineering,提示词工程,系统化设计提示词以优化模型输出的方法
+基础概念,Prompting,提示,动词，构造提示词的过程
+基础概念,System Prompt,系统提示词,定义模型整体行为的顶层指令
+基础概念,Zero-shot Prompting,零样本提示,不提供示例的提示方式
+基础概念,Few-shot Prompting,少样本提示,提供少量示例的提示方式
+基础概念,Chain-of-Thought (CoT),思维链（CoT）,引导模型逐步推理的提示技巧
+基础概念,Context,上下文,模型一次推理可见的全部输入
+基础概念,Context Window,上下文窗口,模型单次可处理的最大 token 数
+基础概念,Context Engineering,上下文工程,刻意设计/管理喂给模型的上下文以提升效果
+基础概念,Context Rot,上下文腐化,上下文变长后模型表现退化的现象
+基础概念,Token,令牌（Token）,模型处理文本的最小单位
+基础概念,Inference,推理,模型根据输入生成输出的过程
+基础概念,Training,训练,通过数据更新模型参数的过程
+基础概念,Fine-tuning,微调,在预训练模型上做少量针对性训练
+基础概念,Hallucination,幻觉,模型生成看似合理但事实错误的输出
+基础概念,Grounding,事实锚定（接地）,让模型输出与外部事实/来源对齐
+基础概念,Guardrails,护栏,约束模型行为的安全/质量防护机制
+基础概念,Deterministic,确定性,同一输入必得同一输出
+基础概念,Latency,延迟,请求到响应的时间
+基础概念,Throughput,吞吐量,单位时间处理的任务量
+智能体,Agent,智能体,能自主规划并调用工具完成任务的系统
+智能体,Agentic,智能体式,具备自主规划与行动能力
+智能体,Coding Agent,编码智能体,能编写/修改代码的 AI 智能体
+智能体,Tool Use,工具使用,模型调用外部工具完成任务的能力
+智能体,Function Calling,函数调用,模型请求执行特定函数的能力
+智能体,Multi-agent System,多智能体系统,多个智能体协作完成任务的系统
+智能体,Orchestration,编排,协调多个组件/智能体工作的过程
+智能体,Scaffolding,脚手架,围绕模型搭建的支撑性代码/流程
+智能体,Sandbox,沙箱,隔离执行环境
+协议与工具,Model Context Protocol (MCP),模型上下文协议（MCP）,连接模型与外部工具/数据源的标准协议
+协议与工具,Application Programming Interface (API),应用程序接口（API）
+协议与工具,Software Development Kit (SDK),软件开发工具包（SDK）
+协议与工具,Command Line Interface (CLI),命令行界面（CLI）
+协议与工具,Integrated Development Environment (IDE),集成开发环境（IDE）
+协议与工具,Retrieval-Augmented Generation (RAG),检索增强生成（RAG）
+协议与工具,Vector Database,向量数据库
+协议与工具,Embedding,嵌入（向量嵌入）
+协议与工具,Semantic Search,语义搜索
+工程实践,Code Review,代码审查（评审）
+工程实践,Pull Request (PR),拉取请求（PR）
+工程实践,Commit,提交,版本控制中的一次改动记录
+工程实践,Branch,分支
+工程实践,Repository (Repo),代码仓库
+工程实践,Deployment,部署
+工程实践,Full-stack,全栈
+工程实践,Frontend,前端
+工程实践,Backend,后端
+工程实践,Continuous Integration / Continuous Delivery (CI/CD),持续集成/持续交付（CI/CD）
+工程实践,Product Requirements Document (PRD),产品需求文档（PRD）
+工程实践,Specification (Spec),规格说明（Spec）
+工程实践,Artifact,交付物（产物）
+工程实践,Open Source,开源
+工程实践,Structured Output,结构化输出
+工程实践,Scalability,可扩展性
+工程实践,Reliability,可靠性
+工程实践,Terminal,终端
+安全,Prompt Injection,提示词注入,通过恶意输入操控模型行为的攻击
+安全,Remote Code Execution (RCE),远程代码执行（RCE）
+安全,Vulnerability,漏洞
+安全,Vulnerability Detection,漏洞检测
+安全,Static Application Security Testing (SAST),静态应用安全测试（SAST）
+安全,Dynamic Application Security Testing (DAST),动态应用安全测试（DAST）
+安全,Runtime Application Self-Protection (RASP),运行时应用自我保护（RASP）
+安全,OWASP Top 10,OWASP Top 10,开放式 Web 应用安全项目发布的十大风险
+安全,Attack Surface,攻击面
+安全,Identity Spoofing,身份伪造
+安全,Impersonation,身份冒充
+运维,Site Reliability Engineering (SRE),站点可靠性工程（SRE）
+运维,Observability,可观测性
+运维,Monitoring,监控
+运维,Trace,链路追踪（Trace）
+运维,Span,跨度（Span）,一次追踪中的单个操作单元
+运维,On-call,值班（待命）
+运维,Kubernetes,Kubernetes（K8s）
+运维,Troubleshooting,故障排查
+运维,Incident,事故（事件）
+运维,Runbook,处置手册（Runbook）
+运维,Service Level Objective (SLO),服务水平目标（SLO）

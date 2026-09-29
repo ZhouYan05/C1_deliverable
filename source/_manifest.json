@@ -1,0 +1,162 @@
+{
+  "agentic-ai-threats": {
+    "status": "ok",
+    "title": "AI Agents Are Here. So Are the Threats.",
+    "words": 8153
+  },
+  "ai-code-review-best-practices": {
+    "status": "ok",
+    "title": "AI code review implementation and best practices",
+    "words": 1786
+  },
+  "benefits-agentic-ai-oncall": {
+    "status": "ok",
+    "title": "The Top 5 Benefits of Agentic AI in On-call Engineering | Resolve AI Blog",
+    "words": 992
+  },
+  "claude-code-best-practices": {
+    "status": "ok",
+    "title": "Claude Code overview - Claude Code Docs",
+    "words": 1544
+  },
+  "code-review-essentials": {
+    "status": "ok",
+    "title": "Code Review Essentials for Software Teams » Blake Smith",
+    "words": 2101
+  },
+  "code-reviews-just-do-it": {
+    "status": "ok",
+    "title": "Code Reviews: Just Do It",
+    "words": 579
+  },
+  "context-rot": {
+    "status": "ok",
+    "title": "Context Rot: How Increasing Input Tokens Impacts LLM Performance·|·Chroma",
+    "words": 7808
+  },
+  "copilot-prompt-injection-rce": {
+    "status": "ok",
+    "title": "GitHub Copilot: Remote Code Execution via Prompt Injection (CVE-2025-53773) ·  Embrace The Red",
+    "words": 1234
+  },
+  "devin-coding-agents-101": {
+    "status": "ok",
+    "title": "Coding Agents 101: The Art of Actually Getting Things Done",
+    "words": 3467
+  },
+  "finding-vulnerabilities-claude-codex": {
+    "status": "ok",
+    "title": "Finding vulnerabilities in modern web apps using Claude Code and OpenAI Codex | Semgrep",
+    "words": 3767
+  },
+  "good-context-good-code": {
+    "status": "blocked",
+    "title": "StockApp Engineering",
+    "words": 9
+  },
+  "how-long-contexts-fail": {
+    "status": "ok",
+    "title": "How Long Contexts Fail",
+    "words": 1676
+  },
+  "how-to-review-code-effectively": {
+    "status": "ok",
+    "title": "How to review code effectively: A GitHub staff engineer’s philosophy - The GitHub Blog",
+    "words": 3517
+  },
+  "how-warp-uses-warp": {
+    "status": "empty",
+    "title": "Notion",
+    "words": 0
+  },
+  "kubernetes-troubleshooting-ai": {
+    "status": "ok",
+    "title": "Kubernetes Troubleshooting in Resolve AI",
+    "words": 1424
+  },
+  "lessons-from-ai-code-reviews": {
+    "status": "empty",
+    "title": "",
+    "words": 0
+  },
+  "mcp-food-for-thought": {
+    "status": "ok",
+    "title": "APIs don't make good MCP tools",
+    "words": 754
+  },
+  "mcp-introduction": {
+    "status": "ok",
+    "title": "Model Context Protocol (MCP): A comprehensive introduction for developers",
+    "words": 4904
+  },
+  "mcp-registry-preview": {
+    "status": "ok",
+    "title": "Introducing the MCP Registry | Model Context Protocol Blog",
+    "words": 811
+  },
+  "mcp-server-authentication": {
+    "status": "ok",
+    "title": "Build a Remote MCP server Â· Cloudflare Agents docs",
+    "words": 1976
+  },
+  "multi-agent-systems-ai-native": {
+    "status": "ok",
+    "title": "The role of multi agent systems in making software engineers AI-native",
+    "words": 2076
+  },
+  "observability-basics": {
+    "status": "ok",
+    "title": "Traces & Spans: Observability Basics You Should Know | Last9",
+    "words": 1674
+  },
+  "owasp-top-ten": {
+    "status": "ok",
+    "title": "OWASP Top Ten Web Application Security Risks | OWASP Foundation",
+    "words": 2346
+  },
+  "peeking-under-the-hood-of-claude-code": {
+    "status": "blocked",
+    "title": "Peeking Under the Hood of Claude Code",
+    "words": 47
+  },
+  "prompt-engineering-guide": {
+    "status": "ok",
+    "title": "Prompting Techniques | Prompt Engineering Guide",
+    "words": 60
+  },
+  "prompt-engineering-overview": {
+    "status": "ok",
+    "title": "Prompt Engineering for AI Guide | Google Cloud",
+    "words": 3581
+  },
+  "sast-vs-dast": {
+    "status": "ok",
+    "title": "SAST vs. DAST vs. RASP: Comparing Application Security Testing Methods | Splunk",
+    "words": 3093
+  },
+  "specs-are-the-new-source-code": {
+    "status": "ok",
+    "title": "The spec is dead, long live the spec!",
+    "words": 2022
+  },
+  "sre-introduction": {
+    "status": "ok",
+    "title": "Google SRE - IT Service Management: Automate Operations",
+    "words": 4166
+  },
+  "warp-vs-claude-code": {
+    "status": "ok",
+    "title": "Getting started with Warp and Oz | Warp",
+    "words": 571
+  },
+  "writing-effective-tools-for-agents": {
+    "status": "ok",
+    "title": "Writing effective tools for AI agents—using AI agents \\ Anthropic",
+    "words": 3372
+  },
+  "index": {
+    "status": "ok",
+    "title": "CS146S: The Modern Software Developer - Stanford University (Offline Cache)",
+    "words": 1228
+  }
+}

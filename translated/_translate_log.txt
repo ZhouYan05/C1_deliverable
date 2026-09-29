@@ -1,0 +1,45 @@
+﻿[2026-09-28T18:13:53] start, files=1
+[2026-09-28T18:55:30] start, files=32
+[ok]   agentic-ai-threats.md  215s  in=59994 out=16522
+[ok]   ai-code-review-best-practices.md  74s  in=15838 out=4650
+[ok]   benefits-agentic-ai-oncall.md  220s  in=9653 out=2390
+[ok]   claude-code-best-practices.md  73s  in=12742 out=5174
+[ok]   code-review-essentials.md  210s  in=14962 out=4127
+[ok]   code-reviews-just-do-it.md  58s  in=6069 out=1310
+[ok]   context-rot.md  494s  in=53585 out=20796
+[ok]   copilot-prompt-injection-rce.md  124s  in=10169 out=3068
+[ok]   devin-coding-agents-101.md  129s  in=24804 out=7770
+[ok]   finding-vulnerabilities-claude-codex.md  268s  in=26039 out=9546
+[ok]   good-context-good-code.md  10s  in=2688 out=46
+[ok]   how-long-contexts-fail.md  151s  in=13238 out=3893
+[2026-09-28T22:59:23] start, files=32
+[skip] agentic-ai-threats.md already present
+[skip] ai-code-review-best-practices.md already present
+[skip] benefits-agentic-ai-oncall.md already present
+[skip] claude-code-best-practices.md already present
+[skip] code-review-essentials.md already present
+[skip] code-reviews-just-do-it.md already present
+[skip] context-rot.md already present
+[skip] copilot-prompt-injection-rce.md already present
+[skip] devin-coding-agents-101.md already present
+[skip] finding-vulnerabilities-claude-codex.md already present
+[skip] good-context-good-code.md already present
+[skip] how-long-contexts-fail.md already present
+[ok]   how-to-review-code-effectively.md  140s  in=22847 out=6770
+[ok]   how-warp-uses-warp.md  13s  in=2615 out=8
+[ok]   index.md  182s  in=11597 out=4220
+[ok]   kubernetes-troubleshooting-ai.md  181s  in=12227 out=3831
+[ok]   lessons-from-ai-code-reviews.md  20s  in=2609 out=47
+[ok]   mcp-food-for-thought.md  86s  in=7115 out=2022
+[ok]   mcp-introduction.md  207s  in=34261 out=12488
+[ok]   mcp-registry-preview.md  76s  in=8024 out=2152
+[ok]   mcp-server-authentication.md  245s  in=15224 out=7856
+[ok]   multi-agent-systems-ai-native.md  120s  in=17186 out=5422
+[ok]   observability-basics.md  239s  in=14693 out=5408
+[ok]   owasp-top-ten.md  258s  in=19662 out=11126
+[ok]   peeking-under-the-hood-of-claude-code.md  10s  in=2951 out=193
+[ok]   prompt-engineering-guide.md  82s  in=3080 out=159
+[ok]   prompt-engineering-overview.md  130s  in=25855 out=9216
+[ok]   sast-vs-dast.md  181s  in=24161 out=7511
+[ok]   specs-are-the-new-source-code.md  203s  in=14943 out=4910
+[ok]   sre-introduction.md  147s  in=29012 out=8457

@@ -1,0 +1,37 @@
+page,tier,license,license_url,handling,note
+index,A,CS146S 课程自有材料,https://themodernsoftware.dev/,full_translation,课程主页(概述/大纲/FAQ),随课程发布
+prompt-engineering-guide,A,CC BY 4.0,https://www.promptingguide.ai/,full_translation,开放图书,署名即可
+owasp-top-ten,A,CC BY-SA 4.0,https://owasp.org/www-project-top-ten/,full_translation,OWASP 官方,需保留相同方式共享
+claude-code-best-practices,A,Anthropic 站点条款(允许翻译),https://www.anthropic.com/legal/terms,full_translation,Anthropic 工程博客,需署名+回链
+writing-effective-tools-for-agents,A,Anthropic 站点条款(允许翻译),https://www.anthropic.com/legal/terms,full_translation,Anthropic 工程博客,需署名+回链
+mcp-registry-preview,A,MCP 开源项目(Apache-2.0),https://github.com/modelcontextprotocol,full_translation,MCP 官方博客,开放许可
+how-anthropic-uses-claude-code.pdf,A,Anthropic 站点条款(允许翻译),https://www.anthropic.com/legal/terms,full_translation,Anthropic 官方 PDF,需署名+回链
+prompt-engineering-overview,B,专有内容(Google Cloud),https://cloud.google.com/,study_notes,商业博客,仅供学习引用
+mcp-introduction,B,专有内容(Stytch),https://stytch.com/,study_notes,商业博客
+mcp-server-authentication,B,专有内容(Cloudflare),https://developers.cloudflare.com/,study_notes,商业博客
+mcp-food-for-thought,B,个人博客/未明示授权,https://www.reillywood.com/,study_notes
+specs-are-the-new-source-code,B,个人博客/未明示授权,https://blog.ravi-mehta.com/,study_notes
+how-long-contexts-fail,B,个人博客/未明示授权,https://www.dbreunig.com/,study_notes
+devin-coding-agents-101,B,专有内容(Devin/Cognition),https://devin.ai/,study_notes,商业产品文档
+good-context-good-code,B,专有内容(StockApp),https://blog.stockapp.com/,study_notes
+peeking-under-the-hood-of-claude-code,B,Medium(未抓取成功),https://medium.com/,unavailable,原文抓取被 Medium 拦截,仅有占位页
+warp-vs-claude-code,B,专有内容(Warp),https://www.warp.dev/,study_notes
+how-warp-uses-warp,B,专有内容(Notion/Warp),https://notion.warp.dev/,study_notes,抓取内容为空
+sast-vs-dast,B,专有内容(Splunk),https://www.splunk.com/,study_notes
+copilot-prompt-injection-rce,B,专有内容(embracethered),https://embracethered.com/,study_notes
+finding-vulnerabilities-claude-codex,B,专有内容(Semgrep),https://semgrep.dev/,study_notes
+context-rot,B,专有内容(Chroma Research),https://research.trychroma.com/,study_notes
+code-reviews-just-do-it,B,专有内容(Coding Horror),https://blog.codinghorror.com/,study_notes
+how-to-review-code-effectively,B,专有内容(GitHub Blog),https://github.blog/,study_notes
+ai-code-review-best-practices,B,专有内容(Graphite),https://graphite.dev/,study_notes,已按全文翻译产出(内部使用)
+code-review-essentials,B,个人博客/未明示授权,https://blakesmith.me/,study_notes
+lessons-from-ai-code-reviews,B,未抓取成功,https://github.blog/,unavailable,抓取内容为空
+observability-basics,B,专有内容(Last9),https://last9.io/,study_notes
+multi-agent-systems-ai-native,B,专有内容(Resolve AI),https://resolve.ai/,study_notes
+benefits-agentic-ai-oncall,B,专有内容(Resolve AI),https://resolve.ai/,study_notes,已按全文翻译产出(内部使用)
+kubernetes-troubleshooting-ai,B,专有内容(Resolve AI),https://resolve.ai/,study_notes
+agentic-ai-threats,B,专有内容(Unit42/Palo Alto),https://unit42.paloaltonetworks.com/,study_notes,已按全文翻译产出(内部使用)
+sre-introduction,B,CC BY-NC-ND 4.0,https://sre.google/sre-book/,study_notes,ND=禁止演绎,翻译不获许可,须改写为讲解
+how-openai-uses-codex.pdf,B,专有内容(OpenAI),https://openai.com/,study_notes
+ai-assisted-code-review-assessment.pdf,B,来源未标注授权,unknown,study_notes
+vibe-coding-playbook.pdf,C,待确认,unknown,pending_ocr,图像扫描件无可提取文本(0字符/14页),需 OCR 后再定
