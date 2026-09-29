@@ -148,7 +148,8 @@ python pipeline/spotcheck.py ./source ./translated
 ```
 cs146s-vibe-coding-zh/
 ├── README.md                  ← 本文件（资料包说明）
-├── AI_工作日志与AAR.md         ← AI 协作日志 + 七维 AAR 复盘
+├── AI日志.md                  ← AI 协作工作日志（Log）
+├── AAR复盘.md                 ← 七维 AAR 复盘（含当前状态与下一优先级）
 ├── 拿来说明/                   ← 至少 3 个「拿来说明」（决策如何借助 AI 做出）
 │
 ├── source/                    ← 提取后的英文原文（Markdown）
